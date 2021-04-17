@@ -8,7 +8,7 @@ Learning React Native by Building a Foking Weather App
 
 #### #0 INTRODUCTION (31:25)
 
-- [ ] #0.0 Introduction (01:21)
+- [x] #0.0 Introduction (01:21)
 - [ ] #0.0 🚨 Read this First 🚨
 - [ ] #0.1 Requirements (04:03)
 - [ ] #0.2 Expo vs RN CLI (05:02)
