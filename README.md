@@ -18,7 +18,7 @@ Learning React Native by Building a Foking Weather App
 
 #### #1 LOGIC (34:52)
 
-- [ ] #1.0 Layouts with Flexbox in React Native (06:25)
+- [x] #1.0 Layouts with Flexbox in React Native (06:25)
 - [ ] #1.1 Loading Screen (05:22)
 - [ ] #1.2 Getting the Location (07:19)
 - [ ] #1.3 Asking for Permissions (07:42)
