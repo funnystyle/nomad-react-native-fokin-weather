@@ -54,15 +54,23 @@ export default function Weather({ temp, condition }) {
   return (
     <LinearGradient
       // Background Linear Gradient
-      colors={weatherOptions[condition].gradient}
+      colors={
+        !!weatherOptions[condition]
+          ? weatherOptions[condition].gradient
+          : ["#f5af19", "#f12711"]
+      }
       style={styles.container}
     >
       <StatusBar barStyle="light-content" />
       <View style={styles.halfContainer}>
         <MaterialCommunityIcons
           size={96}
-          name={weatherOptions[condition].iconName}
           color="white"
+          name={
+            !!weatherOptions[condition]
+              ? weatherOptions[condition].iconName
+              : "weather-sunset"
+          }
         />
         <Text style={styles.temp}>{temp}o</Text>
       </View>
