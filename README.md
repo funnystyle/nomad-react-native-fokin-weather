@@ -22,7 +22,7 @@ Learning React Native by Building a Foking Weather App
 - [x] #1.1 Loading Screen (05:22)
 - [x] #1.2 Getting the Location (07:19)
 - [x] #1.3 Asking for Permissions (07:42)
-- [ ] #1.4 Getting the Weather (08:04)
+- [x] #1.4 Getting the Weather (08:04)
 
 #### #2 STYLES (43:06)
 
