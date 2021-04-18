@@ -3,6 +3,12 @@
 Learning React Native by Building a Foking Weather App
 
 ---
+- React Native API : https://reactnative.dev/docs/accessibilityinfo
+- Expo API : https://docs.expo.io/versions/latest/
+- Weather API: https://openweathermap.org/
+- Expo: https://docs.expo.io/
+- icons: https://icons.expo.fyi/
+---
 
 ### React Native로 날씨앱 만들기 (109:23)
 
