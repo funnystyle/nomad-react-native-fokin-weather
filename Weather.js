@@ -72,7 +72,7 @@ export default function Weather({ temp, condition }) {
               : "weather-sunset"
           }
         />
-        <Text style={styles.temp}>{temp}o</Text>
+        <Text style={styles.temp}>{temp}°</Text>
       </View>
       <View style={styles.halfContainer} />
     </LinearGradient>
