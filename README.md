@@ -27,7 +27,7 @@ Learning React Native by Building a Foking Weather App
 #### #2 STYLES (43:06)
 
 - [x] #2.0 Displaying Temperature (09:00)
-- [ ] #2.1 Getting the Condition Names (05:35)
+- [x] #2.1 Getting the Condition Names (05:35)
 - [ ] #2.2 Icons and Styling (06:57)
 - [ ] #2.3 Background Gradient (10:03)
 - [ ] #2.4 Titles and Subtitles (07:16)
